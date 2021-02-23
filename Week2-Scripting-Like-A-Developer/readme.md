@@ -24,7 +24,7 @@ The s3bucket.py script is designed to be re-used at any point for any environmen
 
 ## Examples
 
-'''Pwsh
+```Pwsh
 function New-ResourceGroup {
     [cmdletbinding(SupportsShouldProcess)]
 
@@ -48,9 +48,9 @@ function New-ResourceGroup {
 }
 
 New-ResourceGroup -rgName cloudskillsbootcamp -location northeurope
-'''
+```
 
-'''Python
+```Python
 import sys
 import boto3
 
@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
 
 python .\s3bucket.py donaltest23022021
-'''
+```
 
 ## Testing
 
