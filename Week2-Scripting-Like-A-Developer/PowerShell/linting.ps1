@@ -1,0 +1,1 @@
+Invoke-ScriptAnalyzer -Path "C:\Users\donal.bolger\Desktop\Cloudskills-BootCamp\Week2-Scripting-Like-A-Developer\PowerShell"
